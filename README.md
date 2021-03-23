@@ -12,4 +12,7 @@
    enough for the third group of 22 students. So, we need 32 desks in total.
 6.Solve each of the following problems using Python Scripts. Make sure you use appropriate variable names and comments. When there is a final answer have Python print it to the 
 \screen.A person’s body mass index (BMI) is defined as:BMI=mass in kg / (height in m)2.
-7.You live 4 miles from university. The bus drives at 25mph but spends 2 minutes at each of the 10 stops on the way. How long will the bus journey take? Alternatively, you could run to university. You jog the first mile at 7mph; then run the next two at15mph; before jogging the last at 7mph again. Will this be quicker or slower than the bus?8.Write a Python program which accepts the radius of a circle from the user and compute the area. (area of circle = PI * r2)9.Write a python program to find sum of the first n positive integers. sum = (n*(n+1))/210.Write a Python program to convert seconds to day, hour, minutes and seconds.
+7.You live 4 miles from university. The bus drives at 25mph but spends 2 minutes at each of the 10 stops on the way. How long will the bus journey take? Alternatively, you could     run to university. You jog the first mile at 7mph; then run the next two at15mph; before jogging the last at 7mph again. Will this be quicker or slower than the bus?
+8.Write a Python program which accepts the radius of a circle from the user and compute the area. (area of circle = PI * r2)
+9.Write a python program to find sum of the first n positive integers. sum = (n*(n+1))/2
+10.Write a Python program to convert seconds to day, hour, minutes and seconds.
