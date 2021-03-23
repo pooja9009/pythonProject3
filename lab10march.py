@@ -1,4 +1,4 @@
-'''#if temp is greater than 30, its a hot day otherwise if its less than 10; its a cold day:
+#if temp is greater than 30, its a hot day otherwise if its less than 10; its a cold day:
 #otherwise, its neither hot nor cold.
 temperature = int(input('enter the current temperature:'))
 if temperature >30:
@@ -35,7 +35,7 @@ elif unit.upper() == "K":
     converted_kg = weight/0.45
     print (f'the person weight is{converted_kg}pounds')
 else:
-    print(f'please enter a appropriate character as K for kg and L for lbs!!')'''
+    print(f'please enter a appropriate character as K for kg and L for lbs!!')
 
 
 
